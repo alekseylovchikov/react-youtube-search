@@ -1,4 +1,4 @@
-# ReduxSimpleStarter
+# React Youtube Search
 
 ###Getting Started###
 
